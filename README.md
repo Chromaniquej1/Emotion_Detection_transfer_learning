@@ -23,7 +23,8 @@ The name of the data set is fer2013 which is an open-source data set that was ma
 ## Results
 ![](https://storage.googleapis.com/devfolio/projects/515f4b4f979941a7b1fd2b41d83af00d/piclppz5v340.png)
 
-   
+## Conclusion
+ We initially defined network and trained it so that it is capable of classifying the correct emotion and then we made use of that trained model to classify the emotions in real-time. The model does not give good accuracy and takes much time to train. You can make use of other pre-trained architecture like ResNet and MobileNet to train your network for better performance of the model.
            
            
   
