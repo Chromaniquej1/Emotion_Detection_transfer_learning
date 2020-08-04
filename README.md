@@ -21,7 +21,7 @@ The name of the data set is fer2013 which is an open-source data set that was ma
    * command to install **OpenCV** is **pip install opencv-python**     
    
 ## Results
-![Test result will look like this](https://www.google.com/url?sa=i&url=https%3A%2F%2Ftowardsdatascience.com%2Fface-detection-recognition-and-emotion-detection-in-8-lines-of-code-b2ce32d4d5de&psig=AOvVaw2FCWo4Zw6FaObf6eWDbNKK&ust=1596639861508000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCJD1t5PpgesCFQAAAAAdAAAAABAD)
+![](https://storage.googleapis.com/devfolio/projects/515f4b4f979941a7b1fd2b41d83af00d/piclppz5v340.png)
 
    
            
