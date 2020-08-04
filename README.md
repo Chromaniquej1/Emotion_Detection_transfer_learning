@@ -13,4 +13,12 @@ The article demonstrates a computer vision model that we will build using Keras 
 ## The Dataset
 The name of the data set is fer2013 which is an open-source data set that was made publicly available for a Kaggle competition. It contains 48 X 48-pixel grayscale images of the face. There are seven categories (0=Angry, 1=Disgust, 2=Fear, 3=Happy, 4=Sad, 5=Surprise, 6=Neutral) present in the data. The CSV file contains two columns that are emotion that contains numeric code from 0-6 and a pixel column that includes a string surrounded in quotes for each image.
 
-## Softwares Requaired
+## Softwares and dependancies required:
+   * Python3: [link to download python3](https://www.python.org/downloads/)
+   * Anaconda: [link to download Anaconda](https://www.anaconda.com)
+   * In order to run codes in your system you need install **tensorflow** and **OpenCV** in your system
+           **command to install tensorflow** is **pip install tensorflow**
+   * command to install **OpenCV** is **pip install opencv-python**        
+           
+           
+  
